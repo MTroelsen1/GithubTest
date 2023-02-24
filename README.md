@@ -11,9 +11,9 @@ Now I have made changes in this file from VS!
 ## Procedure
 
 The procedure went as following: 
-"git clone ___" and add key
-Make edits
-("git status" to see status)
-"git add ." to add new files 
-"git commit -m "message" -m "describtion" "
-"git push origin main"
+1. "git clone ___" and add key
+2. Make edits
+3. "git add ."
+4. ("git status" to see status) 
+5. "git commit -m "message" -m "describtion" "
+6. "git push origin main"
